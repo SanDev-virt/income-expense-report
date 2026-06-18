@@ -1,0 +1,23 @@
+{
+  "name": "income-expense-report",
+  "version": "1.0.0",
+  "description": " A simple income and expense report application.",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server",
+    "dev": "nodemon index.html"
+  },
+  "keywords": [
+    "income",
+    "expense",
+    "report",
+    "finance"
+  ],
+  "author": "Sandra Córdoba",
+  "license": "MIT",
+  "type": "commonjs",
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "nodemon": "^3.1.14"
+  }
+}
